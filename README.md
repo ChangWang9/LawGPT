@@ -33,7 +33,7 @@
 ### 克隆项目
 
 ```bash
-git clone https://github.com/yourusername/law-gpt.git
+git clone https://github.com/ChangWang9/LawGPT.git
 cd law-gpt
 ```
 
