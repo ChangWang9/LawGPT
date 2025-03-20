@@ -34,7 +34,7 @@
 
 ```bash
 git clone https://github.com/ChangWang9/LawGPT.git
-cd law-gpt
+cd LawGPT
 ```
 
 ### 前端环境
