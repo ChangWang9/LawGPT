@@ -1,4 +1,3 @@
-
 # 🔍 Law GPT - 智能法律助手
 
 > 让法律不再枯燥，法庭辩论更智能！💯
@@ -60,8 +59,8 @@ pip install flask flask-cors ws
 # 启动WebSocket服务器
 node server.js
 
-# 启动Flask后端
-python app.py
+cd agentscope
+python lab.py
 ```
 
 ## 📱 界面预览
@@ -71,7 +70,6 @@ python app.py
 ![1742456290877](image/README/1742456290877.png)
 
 ![1742456324197](image/README/1742456324197.png)![1742456329785](image/README/1742456329785.png)
-
 
 ## 💡 使用场景
 
